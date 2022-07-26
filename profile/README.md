@@ -14,7 +14,7 @@ Research objectives are to advance the state-of-the-art in geographic informatio
 - Identify and test generalizable principles underlying the spatial and temporal dynamics of agent interactions (e.g. human-human, human-environment, environment-plant, etc)
 - Identify applied solutions for more efficient and effective integration of real-time spatial data and models to advance agricultural research, management, and policy.
 
-# Project Repositories
+# Paper Project Repositories
 - Rosen, Ewing, Runck (in prep). [Index-based measurement of cover crop growth and N content with low-cost RGB sensing.](https://github.com/RTGS-Lab/USDA_GEMS_RGB_COVER)
 - Runck, Manson, Shook, Gini, Jordan (2019). [Using word embeddings to generate data-driven human agent decision-making from natural language](https://github.com/runck014/2018-geoinformatica-submission)
 - 
