@@ -16,5 +16,6 @@ Research objectives are to advance the state-of-the-art in geographic informatio
 
 # Paper Project Repositories
 - Rosen, Ewing, Runck (in prep). [Index-based measurement of cover crop growth and N content with low-cost RGB sensing.](https://github.com/RTGS-Lab/USDA_GEMS_RGB_COVER)
+- Felzan, Sharma, Runck (in prep). [Soil Survey Interpolation Sensitivity Analysis](https://github.com/RTGS-Lab/SSURGO-interpolation-sensitivity-analysis)
 - Runck, Manson, Shook, Gini, Jordan (2019). [Using word embeddings to generate data-driven human agent decision-making from natural language](https://github.com/runck014/2018-geoinformatica-submission)
 - 
