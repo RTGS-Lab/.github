@@ -1,6 +1,6 @@
 # Real-time GeoInformation Systems Lab
 
-The Runck RTGS Lab is an interdisciplinary lab of scientists and engineers located in the GEMS Informatics Center at the University of Minnesota. 
+The Runck RTGS Lab is an interdisciplinary lab of scientists and engineers located in the [GEMS Informatics Center](https://gems.umn.edu) at the University of Minnesota. 
 Work focuses on real-time spatial data systems (hardware and software) applied to agricultural systems. 
 Research and development supports the GEMS Sensing and GEMS Learning Service Organizations at the University of Minnesota. 
 Our mandate within the GEMS Informatics Center is both advance the state-of-the-art and support service offerings for other researchers.
