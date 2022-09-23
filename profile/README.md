@@ -20,5 +20,11 @@ Research objectives are to advance the state-of-the-art in geographic informatio
 - Runck, Manson, Shook, Gini, Jordan (2019). [Using word embeddings to generate data-driven human agent decision-making from natural language](https://github.com/runck014/2018-geoinformatica-submission)
 - Schulz, Runck, Felzan, Rosen, Watkins, Hollman (in prep). [Real-time sensing system to predict winterkill of temperate zone agroecosystem perennials and winter annuals](https://github.com/RTGS-Lab/winterkill_prediction)
 
-# Utilities and Modules
+# Paper Projects in the Works
+- 
+
+# Software Utilities and Modules
 - [WinterTurf Log Parser](https://github.com/RTGS-Lab/rtgs_log_parser)
+
+# Hardware Utilities and Modules
+- 
