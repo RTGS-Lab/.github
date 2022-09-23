@@ -21,10 +21,8 @@ Research objectives are to advance the state-of-the-art in geographic informatio
 - Schulz, Runck, Felzan, Rosen, Watkins, Hollman (in prep). [Real-time sensing system to predict winterkill of temperate zone agroecosystem perennials and winter annuals](https://github.com/RTGS-Lab/winterkill_prediction)
 
 # Paper Projects in the Works
-- 
+- Hennepin Planning Technologies
 
-# Software Utilities and Modules
+# Utilities and Modules
 - [WinterTurf Log Parser](https://github.com/RTGS-Lab/rtgs_log_parser)
-
-# Hardware Utilities and Modules
-- 
+- Multi-system IoT Interface
