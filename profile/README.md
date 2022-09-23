@@ -11,8 +11,8 @@ Real-time geospatial systems, artificial intelligence, and machine learning in t
 ## Lab Research Objectives
 
 Research objectives are to advance the state-of-the-art in geographic information science in order to:
-- Identify and test generalizable principles underlying the spatial and temporal dynamics of agent interactions (e.g. human-human, human-environment, environment-plant, etc)
 - Identify applied solutions for more efficient and effective integration of real-time spatial data and models to advance agricultural research, management, and policy.
+- Identify and test generalizable principles underlying the spatial and temporal dynamics of agent interactions (e.g. human-human, human-environment, environment-plant, etc)
 
 # Paper Project Repositories
 - Rosen, Ewing, Runck (submitted). [Index-based measurement of cover crop growth and N content with low-cost RGB sensing.](https://github.com/RTGS-Lab/USDA_GEMS_RGB_COVER)
