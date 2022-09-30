@@ -22,6 +22,7 @@ Research objectives are to advance the state-of-the-art in geographic informatio
 
 # Projects in the Works
 - [Hennepin Planning Technologies](https://github.com/RTGS-Lab/hennepin_geodesign)
+- [Complex Activity Geosemantic Tagging](https://github.com/RTGS-Lab/geosemantic-tagging)
 
 # Utilities and Modules
 - [WinterTurf Log Parser](https://github.com/RTGS-Lab/rtgs_log_parser)
