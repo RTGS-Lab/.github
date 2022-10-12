@@ -14,6 +14,12 @@ Research objectives are to advance the state-of-the-art in geographic informatio
 - Identify applied solutions for more efficient and effective integration of real-time spatial data and models to advance agricultural research, management, and policy.
 - Identify and test generalizable principles underlying the spatial and temporal dynamics of agent interactions (e.g. human-human, human-environment, environment-plant, etc)
 
+
+# Lab Resources
+- [How to give a lab update](https://www.dropbox.com/s/k3qvdmh52ek6w09/How%20to%20give%20a%20lab%20update.pdf?dl=0)
+- [Project Form](https://www.dropbox.com/s/ekc4kjtld0uf4sw/Project%20Proposal%20Form.docx?dl=0)
+- [Lab Report Template](https://www.dropbox.com/s/ruxnv73xx0u3e3j/Lab%20Report%20Template.docx?dl=0)
+
 # Paper Project Repositories
 - Rosen, Ewing, Runck (submitted). [Index-based measurement of cover crop growth and N content with low-cost RGB sensing.](https://github.com/RTGS-Lab/USDA_GEMS_RGB_COVER)
 - Felzan, Sharma, Runck (in prep). [Soil Survey Interpolation Sensitivity Analysis](https://github.com/RTGS-Lab/SSURGO-interpolation-sensitivity-analysis)
