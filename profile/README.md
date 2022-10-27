@@ -5,6 +5,9 @@ Work focuses on real-time spatial data systems (hardware and software) applied t
 Research and development supports the GEMS Sensing and GEMS Learning Service Organizations at the University of Minnesota. 
 Our mandate within the GEMS Informatics Center is both advance the state-of-the-art and support service offerings for other researchers.
 
+## GEMS Sensing
+For GEMS Sensing hardware and firmware development, see [here](https://github.com/gemsiot).
+
 ## Lab Interests
 Real-time geospatial systems, artificial intelligence, and machine learning in the context of agriculture. 
 
